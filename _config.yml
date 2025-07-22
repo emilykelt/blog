@@ -7,6 +7,7 @@ url: "https://emilykelt.github.io"  # Replace with your GitHub Pages domain or y
 markdown: kramdown
 #theme: minima  # or comment this out if you're using custom layouts
 plugins: []
+future: true
 
 # Exclude these from the generated site
 exclude:
