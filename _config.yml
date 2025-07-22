@@ -1,0 +1,17 @@
+title: "emily kelt's blog"
+description: "random thoughts and things"
+baseurl: ""  # Set to '' for GitHub Pages user/organization site. Use "/repo-name" for project site.
+url: "https://emilykelt.github.io"  # Replace with your GitHub Pages domain or your custom domain
+
+# Build settings
+markdown: kramdown
+theme: minima  # or comment this out if you're using custom layouts
+plugins: []
+
+# Exclude these from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - upload_post.py
+  - README.md
