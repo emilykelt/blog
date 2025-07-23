@@ -14,5 +14,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - upload_post.py
+  - upload.py
   - README.md
